@@ -1,4 +1,4 @@
 # odin-recipes
 odin recipes - test html 
 
-To demonstrate HTML basics 
+To demonstrate HTML basics - testing
